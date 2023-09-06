@@ -22,4 +22,15 @@ We encourage civic engagement and collaboration with our local government. We ar
 
 Have questions or have a project to propose? Email <a href="mailto:codewithaloha@gmail.com">codewithaloha@gmail.com</a>. 
 
+### Donations
+
+If you want to support us financially, we accept financial contributions on [Open Collective](https://opencollective.com/).
+
+<a href="https://opencollective.com/code-with-aloha/donate" target="_blank">
+  <img src="https://opencollective.com/ode-with-aloha/donate/button@2x.png?color=blue" width=300 />
+</a>
+
+Thank you to all our backers!
+
+![https://opencollective.com/code-with-aloha](https://opencollective.com/code-with-aloha/tiers/badge.svg)
 
