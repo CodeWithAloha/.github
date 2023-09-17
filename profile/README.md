@@ -20,7 +20,7 @@ We encourage civic engagement and collaboration with our local government. We ar
 
 ### Questions
 
-Have questions or have a project to propose? Email <a href="mailto:codewithaloha@gmail.com">codewithaloha@gmail.com</a>. 
+Have questions or have a project to propose? Fill out our <a href="https://airtable.com/app8UAW6mDtD67cUL/shr6YFyLKEVLzYVZx">partner form</a> or send us an email <a href="mailto:codewithaloha@gmail.com">codewithaloha@gmail.com</a>. 
 
 ### Donations
 
