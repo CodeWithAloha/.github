@@ -12,11 +12,12 @@ We encourage civic engagement and collaboration with our local government. We ar
 
 - [Hawaii Zoning Atlas](https://github.com/CodeWithAloha/Hawaii-Zoning-Atlas) - Interactive map showing how outdated zoning laws make it hard to build diverse, affordable housing in Hawaii
 - [HIERR](https://github.com/codewithaloha/hierr) - A demographic survey wrapper around [pol.is](https://pol.is/) aimed to discover ways to make Hawaii's economy more resilient, sustainable, and equitable
+- [UIPA](https://uipa.org/) - A forum to publicize FOIA record requests and replies so that others do not have to ask for the same information and replies can be scrutinized by the public
 
 ### Previous Projects
 
 - [Hawaii Food Oasis](https://hi.foodoasis.net/) - A map to provide information about food pantries and meal programs to food seekers in Hawaii
-- [UIPA](https://uipa.org/) - A forum to publicize FOIA record requests and replies so that others do not have to ask for the same information and replies can be scrutinized by the public
+- [HoloHolo](https://github.com/CodeWithAloha/ACLU) - An app with geo-location to assist understanding of whose land you are on and your civil rights there
 
 ### Questions
 
