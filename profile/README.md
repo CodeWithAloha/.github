@@ -25,11 +25,7 @@ Have questions or have a project to propose? Fill out our <a href="https://airta
 
 ### Donations
 
-If you want to support us financially, we accept financial contributions on [Open Collective](https://opencollective.com/).
-
-<a href="https://opencollective.com/code-with-aloha/donate" target="_blank">
-  <img src="https://opencollective.com/ode-with-aloha/donate/button@2x.png?color=blue" width=300 />
-</a>
+If you want to support us financially, we accept financial contributions on [Open Collective](https://opencollective.com/). [Donate Here](https://opencollective.com/code-with-aloha/donate)
 
 Thank you to all our backers!
 
