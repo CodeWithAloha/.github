@@ -23,13 +23,10 @@ We encourage civic engagement and collaboration with our local government. We ar
 
 ### Questions
 
-Have questions or have a project to propose? Fill out our <a href="https://airtable.com/app8UAW6mDtD67cUL/shr6YFyLKEVLzYVZx">partner form</a> or send us an email <a href="mailto:codewithaloha@gmail.com">codewithaloha@gmail.com</a>. 
+Have questions or have a project to propose? Join our Slack at [codewithaloha.slack.com](codewithaloha.slack.com).
 
 ### Donations
 
-If you want to support us financially, we accept financial contributions on [Open Collective](https://opencollective.com/). [Donate Here](https://opencollective.com/code-with-aloha/donate)
+If you want to support us financially, we accept financial contributions on [Hack Club Bank](https://hcb.hackclub.com/donations/start/code-with-aloha)
 
 Thank you to all our backers!
-
-![https://opencollective.com/code-with-aloha](https://opencollective.com/code-with-aloha/tiers/badge.svg)
-
